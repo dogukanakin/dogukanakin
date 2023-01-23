@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
 <h3 align="center">Frontend Developer</h3>
 
+- 🌱 I’m currently learning ReactJs and NodeJS **.**
+
 - 📫 How to reach me **dogukannakin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
