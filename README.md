@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning ReactJs and NodeJS **.**
+🌱 I’m currently learning ReactJs and NodeJS **.**
 
 
 <h3 align="left">Connect with me:</h3>
