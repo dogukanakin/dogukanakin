@@ -7,6 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   📫 How to reach me: @dogukannakin@gmail.com
+   📫 How to reach me: <a> s</a> dogukannakin@gmail.com
 </p>
 
