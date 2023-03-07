@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Doğukan</h1>
+<h1 align="center">Software Enginner Student 4. Grade - Founder of an E-Commerce Bussines </h1>
 <h3 align="center">Jr. Frontend Developer</h3>
 
 🌱 I’m currently learning ReactJs and NodeJS **.**
