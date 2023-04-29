@@ -9,7 +9,6 @@
 <p align="left">
    📫 How to reach me: dogukannakin@gmail.com   
 </p>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
    https://www.linkedin.com/in/dogukanakinn/
 </p>
