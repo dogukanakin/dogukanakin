@@ -2,7 +2,7 @@
 <h3 align="center">Jr. Frontend Developer</h3>
 <h4 align="center"> Software Engineer Student</h4>
 
-🌱 I’m currently learning ReactJs and NodeJS **.**
+🌱 I’m currently learning ReactJs and .NET **.**
 
 
 <h3 align="left">Connect with me:</h3>
