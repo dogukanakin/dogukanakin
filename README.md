@@ -5,8 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   📫 How to reach me: dogukannakin@gmail.com   
-</p>
+  <a href="mailto:dogukannakin@gmail.com">dogukannakin@gmail.com</a>
 <p align="left">
    https://www.linkedin.com/in/dogukanakinn/
 </p>
