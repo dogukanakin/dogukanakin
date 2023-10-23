@@ -2,8 +2,6 @@
 <h3 align="center">Jr. Frontend Developer</h3>
 <h4 align="center"> Software Engineer </h4>
 
-🌱 I’m currently learning ReactJs and .NET **.**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
