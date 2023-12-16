@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Dogukan</h1>
+<h1 align="center">Hi, I'm Dogukan</h1>
 <h4 align="center"> Software Engineer </h4>
 
 
@@ -8,6 +8,3 @@
 <p align="left">
    https://www.linkedin.com/in/dogukanakinn/
 </p>
-
-
-
