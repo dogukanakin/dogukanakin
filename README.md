@@ -8,3 +8,7 @@
 <p align="left">
    https://www.linkedin.com/in/dogukanakinn/
 </p>
+<p align="left">
+   dogukanakin.com
+</p>
+
