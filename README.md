@@ -9,6 +9,6 @@
    https://www.linkedin.com/in/dogukanakinn/
 </p>
 <p align="left">
-   dogukanakin.com
+   https://dogukanakin.com/
 </p>
 
